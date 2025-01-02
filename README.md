@@ -1,2 +1,2 @@
-# Phase_Field_Julia
+# Phase Field Julia
 Implementation of phase field in Julia
