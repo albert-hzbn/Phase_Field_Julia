@@ -2,7 +2,6 @@
 include("PeriodicVoronoi.jl")
 using .PeriodicVoronoi
 using DelimitedFiles
-using DifferentialEquations
 
 # Define parameters
 const nx, ny = 100, 100
